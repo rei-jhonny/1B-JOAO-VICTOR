@@ -1,3 +1,7 @@
+.lista {
+    color:red;
+    font-size:30;
+}
 #cabecalho {
     text-align:center;
     background:greenyellow;
@@ -5,10 +9,6 @@
     margin-left:-8px;
     msrgin-right:-8px;
     msrgin-top:-8px;
-}
-.lista {
-    color:red;
-    font-size:30;
 }
 .minha-lista {
     color:red;

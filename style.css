@@ -7,8 +7,18 @@
     background:greenyellow;
     border-bottom-style:solid;
     margin-left:-8px;
-    msrgin-right:-8px;
-    msrgin-top:-8px;
+    margin-right:-8px;
+    margin-top:-8px;
+    padding:1px;
+}
+.rodape {
+    text-align:center;
+    background:yellow;
+    border-top-style:solid
+    margin-left:-8px;
+    margin-right:-8px;
+    margin-bottom:-30px;
+    padding:1px;
 }
 .minha-lista {
     color:red;
